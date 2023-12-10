@@ -1,4 +1,4 @@
-<h1>Hangman-Game</h1>
+<h1>Hangman game</h1>
 
 # Specifications 📋
 Hangman game coded using HTML/CSS/JS.
